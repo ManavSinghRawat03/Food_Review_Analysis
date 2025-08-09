@@ -1,0 +1,4 @@
+joblip
+pandas
+streamlit
+scikit-learn
